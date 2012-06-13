@@ -28,7 +28,7 @@ App::import('Datasource','DboSource');
  * @package       cake
  * @subpackage    cake.cake.libs.model.datasources.dbo
  */
-class DboOdbc extends DboSource {
+class Odbc extends DboSource {
 
 /**
  * Driver description
